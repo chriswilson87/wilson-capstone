@@ -1,0 +1,78 @@
+---
+title: "Wilson Springboard Capstone ideas"
+author: "Chris Wilson"
+date: "4/4/2017"
+output: html_document
+---
+
+## Idea 1
+
+**Issue to be addressed:** Homeless population in New York City
+
+**Potential questions:** Is the homeless population in NYC on the rise? How does it compare to shelter availability and the presence of affordable housing? Is the NYC budget effectively addressing the problem? Is there any kind of correlation between NYC budget expenditure and the homeless trend?
+
+**Potential outcome:** Determine where the homeless population is being underserved, and understand the nature of the homeless phenomenon in one of the world’s richest cities. 
+
+**Datasets:**
+
+Number of shelters (families with children, single adults, adult families):
+https://data.cityofnewyork.us/Social-Services/Local-Law-19-Section-612-Report/29i8-bmct
+
+
+Table of homeless population by Year (for years 2009 through 2012):
+https://data.cityofnewyork.us/Social-Services/Directory-Of-Homeless-Population-By-Year/5t4n-d72c
+
+
+Daily number of families and individuals residing in the Department of Homeless Services (DHS) shelter system and the daily number of families applying to the DHS shelter system:
+https://data.cityofnewyork.us/Social-Services/DHS-Daily-Report/k46n-sa2m
+
+
+NYC budget expenditure over time: https://data.cityofnewyork.us/City-Government/Expense-City-Funds/kzk6-y58k
+
+
+Department of Housing Preservation and Development (HPD) reports on buildings, units, and projects that began after January 1, 2014 and are counted towards the Housing New York plan:
+
+https://data.cityofnewyork.us/Housing-Development/Affordable-Housing/x9h2-i4fk
+
+## Idea 2
+
+**Issue to be addressed:** Expenditure by soccer team organizations in quest for championships
+
+
+**Potential questions:** Does spending more money on players lead to increased probability of winning a league championship? Is it an indicator of long-term (i.e. 5 year) success? 
+
+
+**Potential outcome:** Understanding the logic behind expenditure and determining the link, if any, between money and supposed success. This approach could be useful for businesses to determine if ‘throwing money at the problem’ is a good idea after all.
+
+
+**Datasets:**
+
+https://www.forbes.com/soccer-valuations/
+
+http://opendata.stackexchange.com/questions/3369/any-open-public-data-sets-for-the-english-premier-league-epl
+
+http://www.transferleague.co.uk/premier-league-last-five-seasons/transfer-league-tables/premier-league-table-last-five-seasons
+
+https://github.com/footballcsv/eng-england
+
+## Idea 3
+
+**Issue to be addressed:** Gerrymandering and impact on Party success/failure 
+
+
+**Potential questions:** Has the process of redrawing congressional district boundaries (gerrymandering) had an effect on a given party’s (Republican or Democratic) national electoral success, in addition to individual state performance? Where has gerrymandering been the most aggressive, and what is the overall national trend going back 10 years? 
+
+
+**Potential outcome:** Determining the effect that deliberate boundary redrawing has had on the US electoral process, and compare that to models of impartial redistricting.
+
+
+**Datasets:**
+
+Effects of Gerrymandering on Party success/failure (https://github.com/silicon-valley-data-science/gerrymandering-congress)
+
+
+Redistricting map:https://fusiontables.googleusercontent.com/embedviz?viz=MAP&q=select+col5%3E%3E0+from+1cXD8Bee2av01zxmFjaNENFDgh8Iko6rzIO-POVU&h=false&lat=35.434954102297176&lng=-83.96182754687504&z=4&t=1&l=col5%3E%3E0&y=4&tmplt=2
+
+
+Redistricting database: http://bdistricting.com/2010/
+
